@@ -1,3 +1,7 @@
+/* Java file that controls the applcation from the beginning.
+It contains the code that holds and runs the whole application together. 
+It contains the code that runs the main menu that the application shows once you run it. */
+
 package com.example174.fitmeup;
 
 import android.support.v7.app.AppCompatActivity;
