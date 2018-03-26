@@ -6,17 +6,13 @@ This repository contains all the needed files to download and run an Android Mob
 Android Studios is needed to run the files. 
 
 Project designed, devloped and created by: 
-Reyniel Maglian,
-Cameron Mathos,
-Raza Tahir,
-James Vandermost,
-Adrian Ongkoputro
+Reyniel Maglian, Cameron Mathos, Raza Tahir, James Vandermost, Adrian Ongkoputro
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 LICENSE:
 
-Copyright 2017 Reyniel Maglian
+Copyright 2017 Reyniel Maglian, Cameron Mathos, Raza Tahir, James Vandermost, Adrian Ongkoputro
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
