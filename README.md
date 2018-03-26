@@ -5,7 +5,7 @@ MainActivity.java is the source code that runs the main menu of the application 
 This repository contains all the needed files to download and run an Android Mobile application.
 Android Studios is needed to run the files. 
 
-Project Designed and Created by: 
+Project designed, devloped and created by: 
 Reyniel Maglian,
 Cameron Mathos,
 Raza Tahir,
